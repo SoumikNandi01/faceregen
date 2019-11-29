@@ -1,1 +1,0 @@
-This is the checkpoint of a pretraine model. Trained upto a 1050 epochs
