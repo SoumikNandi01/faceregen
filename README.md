@@ -5,4 +5,3 @@ How to use this piece of software :
 2. Create a folder named 'images' in the root directory and create a subfolder name 'images_new' inside the images folder.
 3. In ./images/images_new/ unzip the celebA dataset
 4. Open the jupyter notebook 'Face_Generation.ipynb' and run the cells.
-5. For the systems having trouble training the model, we are providing a checkpoint of a pretrained model.
